@@ -1,0 +1,3 @@
+https://cpanel.zempos.com
+name: zempos
+pass: Nothing@321
