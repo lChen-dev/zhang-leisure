@@ -2,3 +2,4 @@ https://www.cnblogs.com/gooder2-android/p/9087884.html
 https://www.jianshu.com/p/417e574082ed
 https://github.com/benoitvallon/react-native-nw-react-calculator
 https://www.facebook.com/menna.tallah.1612
+https://github.com/javieraviles/covidAPI
